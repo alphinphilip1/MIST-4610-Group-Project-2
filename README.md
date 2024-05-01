@@ -47,6 +47,16 @@ To ensure focused and relevant analysis:
 
 ## Analysis and Results
 
+Air Quality Levels in the Most Populated Boroughs in 2022:
+
+1. Based on the resutls, it was shown that the borough with the highest and worst air quality is Manhattan. Manhattan is also the most populated borough amongst the top 5 most populated boroughs in New York.
+The order of top 5 boroughs with the worst air quality going from highest to lowest is: Manhattan, Bronx, Brooklyn, Queens, and Staten Island.
+The visualization showcases that areas with a higher population tend to have a larger amount of pollution, therefore, having a negative impact on public health.
+Air Quality Before and After COVID:
+
+2. The results show that the air quality levels before COVID-19 were much worse due constant pollution of cars, buses, and other forms of public transportation. After COVID-19, the air quality levels dropped tremendously due to the lockdowns.
+Due to the pandemic, it was shown that the decrease in vehicular and industrial activities made positive impact on the air quality levels. The pollution decreased and this demonstrates how societal behavior can influence environmental and public health.
+
 ![image](https://github.com/alphinphilip1/MIST-4610-Group-Project-2/assets/166083116/3b1a803e-1efe-4f82-8fa7-4892531b44ee)
 
 ![image](https://github.com/alphinphilip1/MIST-4610-Group-Project-2/assets/166083116/85e32a2b-26a2-4353-a6e8-5d339b67001e)
