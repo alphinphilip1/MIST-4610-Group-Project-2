@@ -47,9 +47,6 @@ To ensure focused and relevant analysis:
 
 ## Analysis and Results
 
-[Analyze and visualize the results of your analysis and describe the implications of your analysis.
-Please provide any citations if required as well as supporting visualizations and analysis
-generated from Tableau]
 ![image](https://github.com/alphinphilip1/MIST-4610-Group-Project-2/assets/166083116/3b1a803e-1efe-4f82-8fa7-4892531b44ee)
 
 ![image](https://github.com/alphinphilip1/MIST-4610-Group-Project-2/assets/166083116/85e32a2b-26a2-4353-a6e8-5d339b67001e)
